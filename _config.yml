@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://DraigBeats.github.io"
-baseurl: ""
+url: "https://bezecny.github.io/DraigBeats"
+baseurl: "baseurl: "/DraigBeats"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -25,7 +25,23 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-  Ticket: "https://draigbeats2019.brownpapertickets.com/"
+#Music
+  Music:
+    - Live: "live"
+    - Soundsystem: "soundsystem"   
+
+#Activities
+  Activities: 
+    - Workshops: "workshops"
+    - Wild Elements: "wildelements"
+    - In the Field: "inthefield"  
+
+# Wellbeing
+  Wellbeing: "wellbeing"
+
+# Tickets
+  Tickets: "https://draigbeats2019.brownpapertickets.com/"
+  
 #  Line Up: ""
 #  2018: 
 #    - Artist: ""
@@ -46,7 +62,7 @@ avatar: "/img/DBF_2019_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/DBF2019_Banner1.jpg"
+title-img: "/img/DBF2019_Banner1sm.jpg"
 
 # --- Background colour/image options --- #
 
