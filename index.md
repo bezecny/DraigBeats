@@ -29,6 +29,7 @@ Live bands and DJs across three music stages • Syrcas Cimera • Workshops •
 
 ![DraigBeatsFlyer](/img/DRAIG_BEATS_A6_19.jpg)
 
+
 ### [TICKET PRICES](https://draigbeats2019.brownpapertickets.com)
 
 
