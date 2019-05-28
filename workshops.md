@@ -12,6 +12,9 @@ bigimg:
 
 # Workshops
 
+#### ***Cimera Circus Workshop / Stilt Walkabout***
+> Family Circus Workshop and Stilt Characters  
+Gweithdy Syrcas Teulu a Chymeriadau Stilt
 
 #### ***Creative Family Dance***  
 > Creative family dance with Jules from Feel Good Company, (Teimlo'n DDA Cwmni)
