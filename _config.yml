@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://bezecny.github.io/DraigBeats"
-baseurl: "/DraigBeats"
+baseurl: "baseurl: "/DraigBeats"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -25,20 +25,12 @@ paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
-#Music
-  Music:
-    - Live: "live"
-    - Soundsystem: "soundsystem"   
-
+#Artists
+  Artists: "artists"
+#Stallholders
+  Stallholders: "stallholders"
 #Activities
-  Activities: 
-    - Workshops: "workshops"
-    - Wild Elements: "wildelements"
-    - In the Field: "inthefield"  
-
-# Wellbeing
-  Wellbeing: "wellbeing"
-
+  Activities: "activities"   
 # Tickets
   Tickets: "https://draigbeats2019.brownpapertickets.com/"
   
@@ -46,7 +38,7 @@ navbar-links:
 #  2018: 
 #    - Artist: ""
 #    - Workshop: ""
-  Get involved: "join"
+  Volunteering: "https://volunteersignup.org/7XJ7P"
 #  Sophie Williams Trust: ""
 #  About: "about"
 
