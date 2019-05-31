@@ -2,6 +2,6 @@ cp  ../DraigBeats.github.io/*.md .
 cp ../DraigBeats.github.io/_config.yml .
 cp  ../DraigBeats.github.io/img/* ./img/
 sed -i 's/DraigBeats.github.io/bezecny.github.io\/DraigBeats/g' _config.yml
-sed -i 's/baseurl: ""/baseurl: "baseurl: "\/DraigBeats"/g' _config.yml
+sed -i 's/baseurl: ""/baseurl: "\/DraigBeats"/g' _config.yml
 rm CNAME
 touch CNAME
