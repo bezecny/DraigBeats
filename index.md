@@ -13,6 +13,15 @@ bigimg:
 
 ### Our first event last year was such an incredible success that we couldn't resist to do it again!
 
+<table border="0">
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
+
 **Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. But this time we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
 
 Draig Beats will be held on **Saturday the 8th of June 2019** from **10am until 9pm** in Treborth Botanic Garden. It’s a family friendly, fundraising event with plenty of live music, workshops, vegan food & drink and lots of activities to keep the kids busy!
