@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Line Up is out!
+title: Volunteers Needed!
 subtitle: 
 use-site-title: true
 bigimg:
@@ -10,37 +10,40 @@ bigimg:
  - "/img/DBF2018_header3sm.jpg" : ""
 ---
 
-### LINE UP
+## Get Your Free Ticket - Volunteer!!!
+Become a part of the festival and volunteer!  
+We still have some nice and easy going shifts (3 hours) in exchange for a ticket.
+Interested? Take a look at: [Volunteer sign up](https://volunteersignup.org/7XJ7P).   
 
+## The Line Up
 
 ![Line Up](/img/LineUp.jpg)
 
-**Y TOP MAWR - BIG TOP**
-
-12:45 - 13:00 Ram Ram  
-14:00 - 14:45 Celtic Cowbois  
-15:45 - 16:45 Banda Bacana  
-17:30 - 18:30 Drymbago  
-19:30 - 20:30 Baka Beyond  
+**Y TOP MAWR - BIG TOP**  
+12:45 - 13:00 [Ram Ram](https://www.facebook.com/RAM-RAM-aka-Reggae-And-Mental-Random-Access-Memory-355050051738196/)   
+14:00 - 14:45 [Cowbois Celtaidd](https://www.facebook.com/cowbois.celtaidd)   
+15:45 - 16:45 [Banda Bacana](https://bandabacana1.bandcamp.com)  
+17:30 - 18:30 [Drymbago](https://www.facebook.com/Drymbago-280604965341497)  
+19:30 - 20:30 [Baka Beyond](https://bakabeyond.net)  
 
 **TIPI**  
-12:00 - 13:00 *Freedom Sound System & Friends*  
+12:00 - 13:00 [*Freedom Sound System & Friends*](https://www.facebook.com/freedomsoundsystem)  
 13:00 - 14:00 Racubah  
 14:45 - 15:45 DJ FoWax  
-16:45 - 17:30 DJ Flyffilyfbybl  
-18:30 - 19:30 DJ Badly & Ska Beat Soul  
+16:45 - 17:30 [DJ Flyffilyfbybl](https://www.facebook.com/DJ-fflyffilyfbybl-342288702450825/)  
+18:30 - 19:30 [DJ Badly](https://www.facebook.com/RAM-RAM-aka-Reggae-And-Mental-Random-Access-Memory-355050051738196/) & [Ska Beat Soul](https://www.facebook.com/skabeatsoul/)  
 
-**ACWSTIG _ ACOUSTIC**  
-11:00 - 11:45 Threnody Choir  
+**ACWSTIG - ACOUSTIC**  
+11:00 - 11:45 [Threnody Choir](https://www.facebook.com/Threnodychoir)    
 12:00 - 12:30 Jonny Steele  
-12:45 - 13:30 Mamatung  
+12:45 - 13:30 [Mamatung](https://www.facebook.com/mamatungmusic)  
 13:45 - 14:30 Djangogs  
-14:45 - 15:30 Eve Goodman  
+14:45 - 15:30 [Eve Goodman](https://www.facebook.com/evegoodmanmusic/)  
 15:45 - 16:30 Martin & Henry  
-16:45 - 17:30 Hannah Willwood  
-18:30 - 19:30 Hedge Gods  
+16:45 - 17:30 [Hannah Willwood](https://www.facebook.com/HannahWillwoodMusic/)  
+18:30 - 19:30 [Hedge Gods](http://hedgegods.com)  
 
-**LLES _ WELLBEING**  
+**LLES - WELLBEING**  
 10:30 - 11:15 Yoga  
 11:45 - 12:30 432Hz Crystal Bowl Soundbath  
 12:45 - 13:30 Self Connection Qigong  
@@ -49,13 +52,13 @@ bigimg:
 16:00 - 16:30 Family Yoga  
 16:45 - 17:30 Laughter Medicine  
 
-**CLOCH Y LOTUS BELL**  
+**CLOCH Y - LOTUS BELL**  
 11:00 - 12:30 Reflexotlogy  
 12:45 - 13:45 Can O’r Galon ... Sing from the Heart  
 14:15 - 15:45 Kansa Wand Facial and Head Massage  
 16:00 - 17:30 Dreaming Drwm Treatment  
 
-**GWEITHDAI _ WORKSHOP**  
+**GWEITHDAI - WORKSHOP**  
 12:00 - 12:45 Creative Family Dance  
 13:00 - 13:45 African Link Drumming  
 14:00 - 14:45 Singing from the Soul  
@@ -63,7 +66,7 @@ bigimg:
 16:00 - 16:45 Introduction to Massage  
 18:30 - 19:30 Salsa  
 
-**YSGOL GOEDWIG WILD ELEMENTS FOREST SCHOOL**  
+**YSGOL GOEDWIG - WILD ELEMENTS FOREST SCHOOL**  
 Archery  
 Cress Clay  
 Plant a Seed  
@@ -72,12 +75,6 @@ Smore (Biscuits & Marshmallows)
 Upccylde and Nature based Shop  
 Mud Kitchen  
 Lawn / Den Games  
-
-### WHAT’S ON  
-
-Live bands and DJs across three music stages • Syrcas Cimera • Workshops • Wellbeing Area • Wild Elements Forest School • Tea & Cake Stalls • Home Cooked Vegetarian Food • Fully Licensed Bar • Much more to be announced
-
-![DraigBeatsFlyer](/img/DRAIG_BEATS_A6_19.jpg)
 
 
 ### [TICKET PRICES](https://draigbeats2019.brownpapertickets.com)
@@ -98,7 +95,9 @@ No Concessions
 [Get tickets!](https://draigbeats2019.brownpapertickets.com)
 
 
-### Our first event last year was such an incredible success that we couldn't resist to do it again!
+## We're Back!
+
+### Our first event last year was such an incredible success that we couldn't resist doing it again!
 
 **Our mission remains the same: raising money for our dear friend and colleague Dr Sophie Williams. But this time we will share a portion with Treborth Botanic Garden as a thank you for their deep support, without which there wouldn’t be a festival. It is widely known that Sophie has felt and still feels so passionately about Treborth Botanic Garden.**
 
@@ -110,10 +109,10 @@ All profits from the food and bars and ticket sales will be going directly to th
 
 We have a great lineup of music and entertainment to announce over the coming weeks, keep checking back to the page and help spread the event amongst your friends.
  
-### Some Notes
+## The small print
 
-As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor University Normal Site, as well as pickup points in Bangor. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
+As access to the Garden is limited we're asking people to come by public transport if possible, but we will also be operating a free park and ride scheme from Bangor Football Club and bus pick up from Bangor Uinversity Brambell Building (NO PARKING!) in walking distance from the train station. Access by car will be limited to Blue Badge holders only, please let us know in advance and we will be able to accommodate you on site.
 
 **To comply with the law and for general event safety:**
 
-No alcohol to be brought onto site • No glas • No unaccompanied children under 18 • No dogs
+No alcohol to be brought onto site • No glass • No unaccompanied children under 18 • No dogs
